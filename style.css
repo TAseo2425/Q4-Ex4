@@ -1,0 +1,18 @@
+body{
+	background-color: #79CFB8;
+	color: #0B7359;
+	text-align: center;
+	font-family: "Josefin Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 700;
+	font-style: normal;
+
+}
+.container{
+	padding: 30px;
+	margin: auto;
+	border-radius: 19px;
+	width: 70%;
+	margin-top: 80px;
+	border: 1px dashed #0B7359;
+}
